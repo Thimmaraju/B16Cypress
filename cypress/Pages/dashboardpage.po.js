@@ -1,8 +1,8 @@
 class DashBoardPage{
 
-    adminmenu(){
+    adminmenu(){ 
 
-        return "Admin"
+        return "Admin "
     }
 
     
